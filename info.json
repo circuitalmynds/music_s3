@@ -436,6 +436,13 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Radio Futura - Tierra para bailar (Álbum completo) [Syw-YXuKufQ].mp4?raw=true"
         },
         {
+            "id": "PzMnrBFr-Zo",
+            "name": "Everybody Step [PzMnrBFr-Zo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Everybody Step [PzMnrBFr-Zo].mp4",
+            "size": 7.850231,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Everybody Step [PzMnrBFr-Zo].mp4?raw=true"
+        },
+        {
             "id": "PIrw6v68zQs",
             "name": "Los Saicos - Ana-PIrw6v68zQs.mp4",
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Los Saicos - Ana-PIrw6v68zQs.mp4",
@@ -443,5 +450,5 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Los Saicos - Ana-PIrw6v68zQs.mp4?raw=true"
         }
     ],
-    "total_size": 926.0124920000001
+    "total_size": 933.8627230000001
 }
