@@ -2,11 +2,81 @@
     "available_space": true,
     "content": [
         {
+            "id": "x6R-A_VcdU4",
+            "name": "Newen Afrobeat - Full Album [x6R-A_VcdU4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Newen Afrobeat - Full Album [x6R-A_VcdU4].mp4",
+            "size": 67.836178,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Newen Afrobeat - Full Album [x6R-A_VcdU4].mp4?raw=true"
+        },
+        {
+            "id": "MncpmEyZBkI",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act II - Recit. Oh guarda il demonietto! [MncpmEyZBkI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Mozart： Le nozze di Figaro, K. 492, Act II - Recit. Oh guarda il demonietto! [MncpmEyZBkI].mp4",
+            "size": 1.2574509999999999,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act II - Recit. Oh guarda il demonietto! [MncpmEyZBkI].mp4?raw=true"
+        },
+        {
+            "id": "ONN2QnHaMtU",
+            "name": "When The Red Red Robin Comes Bob-bob-bobbing Along [ONN2QnHaMtU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/When The Red Red Robin Comes Bob-bob-bobbing Along [ONN2QnHaMtU].mp4",
+            "size": 4.800547,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/When The Red Red Robin Comes Bob-bob-bobbing Along [ONN2QnHaMtU].mp4?raw=true"
+        },
+        {
+            "id": "DG_zkPlBNlw",
+            "name": "Liszt： Années de pèlerinage III, S. 163 - VII. Sursum corda (Erhebet eure Herzen) [DG_zkPlBNlw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Liszt： Années de pèlerinage III, S. 163 - VII. Sursum corda (Erhebet eure Herzen) [DG_zkPlBNlw].mp4",
+            "size": 9.75893,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Liszt： Années de pèlerinage III, S. 163 - VII. Sursum corda (Erhebet eure Herzen) [DG_zkPlBNlw].mp4?raw=true"
+        },
+        {
+            "id": "JZ9zpf47p9o",
+            "name": "Boogie Woogie Dancin' Shoes [JZ9zpf47p9o].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Boogie Woogie Dancin' Shoes [JZ9zpf47p9o].mp4",
+            "size": 12.347653,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Boogie Woogie Dancin' Shoes [JZ9zpf47p9o].mp4?raw=true"
+        },
+        {
+            "id": "zND73W9olP0",
+            "name": "Junichi Kamiyama (神山純一)： Aqualy Dew (水の音楽) (1993) [Full Album] [zND73W9olP0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Junichi Kamiyama (神山純一)： Aqualy Dew (水の音楽) (1993) [Full Album] [zND73W9olP0].mp4",
+            "size": 82.08787199999999,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Junichi Kamiyama (神山純一)： Aqualy Dew (水の音楽) (1993) [Full Album] [zND73W9olP0].mp4?raw=true"
+        },
+        {
             "id": "5elMmh0Tr_o",
             "name": "Crystal Memories-5elMmh0Tr_o.mp4",
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Crystal Memories-5elMmh0Tr_o.mp4",
             "size": 4.739040999999999,
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Crystal Memories-5elMmh0Tr_o.mp4?raw=true"
+        },
+        {
+            "id": "WsyhzAjq0FY",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Cosa stai misurando [WsyhzAjq0FY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Cosa stai misurando [WsyhzAjq0FY].mp4",
+            "size": 1.8048629999999999,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Cosa stai misurando [WsyhzAjq0FY].mp4?raw=true"
+        },
+        {
+            "id": "DS6hw8k0oFM",
+            "name": "Africana [DS6hw8k0oFM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Africana [DS6hw8k0oFM].mp4",
+            "size": 9.088989,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Africana [DS6hw8k0oFM].mp4?raw=true"
+        },
+        {
+            "id": "iw37wz5kGR8",
+            "name": "No. 8： Presto [iw37wz5kGR8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/No. 8： Presto [iw37wz5kGR8].mp4",
+            "size": 10.545166,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/No. 8： Presto [iw37wz5kGR8].mp4?raw=true"
+        },
+        {
+            "id": "c639hksrUzU",
+            "name": "Telex - Moskow Diskow (1979) [c639hksrUzU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Telex - Moskow Diskow (1979) [c639hksrUzU].mp4",
+            "size": 6.764474,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Telex - Moskow Diskow (1979) [c639hksrUzU].mp4?raw=true"
         },
         {
             "id": "z4FGnllZxr8",
@@ -23,6 +93,20 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Melancolía - Oscar Alemán y su Quinteto de Jazz-2Y5iW9VRoa8.mp4?raw=true"
         },
         {
+            "id": "7mtpV3wl0Cc",
+            "name": "Johann Baptist Vaňhal - Symphony in C major Bryan C11 [7mtpV3wl0Cc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Johann Baptist Vaňhal - Symphony in C major Bryan C11 [7mtpV3wl0Cc].mp4",
+            "size": 17.814336,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Johann Baptist Vaňhal - Symphony in C major Bryan C11 [7mtpV3wl0Cc].mp4?raw=true"
+        },
+        {
+            "id": "GUU7t2-b77k",
+            "name": "Be My Lover Now (12'' Remix⧸2003 Digital Remaster) [GUU7t2-b77k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Be My Lover Now (12'' Remix⧸2003 Digital Remaster) [GUU7t2-b77k].mp4",
+            "size": 15.316154,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Be My Lover Now (12'' Remix⧸2003 Digital Remaster) [GUU7t2-b77k].mp4?raw=true"
+        },
+        {
             "id": "zZFmXf2j12A",
             "name": "Wild Mow-Mow-zZFmXf2j12A.mp4",
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Wild Mow-Mow-zZFmXf2j12A.mp4",
@@ -30,11 +114,74 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Wild Mow-Mow-zZFmXf2j12A.mp4?raw=true"
         },
         {
+            "id": "2PZ5-y1G7z8",
+            "name": "Scotch - Mirage (hq) [2PZ5-y1G7z8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Scotch - Mirage (hq) [2PZ5-y1G7z8].mp4",
+            "size": 15.420807,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Scotch - Mirage (hq) [2PZ5-y1G7z8].mp4?raw=true"
+        },
+        {
+            "id": "f1tjrdcRHU8",
+            "name": "But Not For Me [f1tjrdcRHU8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/But Not For Me [f1tjrdcRHU8].mp4",
+            "size": 9.233196,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/But Not For Me [f1tjrdcRHU8].mp4?raw=true"
+        },
+        {
+            "id": "o9sY8M62IFw",
+            "name": "Petite suite, CD 71, L. 65： II. Cortège (Live) [o9sY8M62IFw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Petite suite, CD 71, L. 65： II. Cortège (Live) [o9sY8M62IFw].mp4",
+            "size": 6.5228139999999994,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Petite suite, CD 71, L. 65： II. Cortège (Live) [o9sY8M62IFw].mp4?raw=true"
+        },
+        {
+            "id": "2cR1bWtRej0",
+            "name": "Could You Use Me？ [2cR1bWtRej0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Could You Use Me？ [2cR1bWtRej0].mp4",
+            "size": 8.69402,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Could You Use Me？ [2cR1bWtRej0].mp4?raw=true"
+        },
+        {
+            "id": "6HFQy9_rY58",
+            "name": "Fleurette Africaine (African Flower) (Remastered) [6HFQy9_rY58].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Fleurette Africaine (African Flower) (Remastered) [6HFQy9_rY58].mp4",
+            "size": 9.654136,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Fleurette Africaine (African Flower) (Remastered) [6HFQy9_rY58].mp4?raw=true"
+        },
+        {
             "id": "MC1TkipqZrM",
             "name": "Louis Andriessen - De Staat (1976)-MC1TkipqZrM.mp4",
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Louis Andriessen - De Staat (1976)-MC1TkipqZrM.mp4",
             "size": 54.704527999999996,
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Louis Andriessen - De Staat (1976)-MC1TkipqZrM.mp4?raw=true"
+        },
+        {
+            "id": "ZH6ebizxlGY",
+            "name": "Schubert - Wohin： Wohin [ZH6ebizxlGY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Schubert - Wohin： Wohin [ZH6ebizxlGY].mp4",
+            "size": 5.72063,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Schubert - Wohin： Wohin [ZH6ebizxlGY].mp4?raw=true"
+        },
+        {
+            "id": "8dL5scbr6nA",
+            "name": "Guateque Campesino [8dL5scbr6nA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Guateque Campesino [8dL5scbr6nA].mp4",
+            "size": 10.360683,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Guateque Campesino [8dL5scbr6nA].mp4?raw=true"
+        },
+        {
+            "id": "p3FsbF_Aito",
+            "name": "Meiko Nakahara - Dance in the memories (ダンス・イン・ザ・メモリーズ ) [p3FsbF_Aito].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Meiko Nakahara - Dance in the memories (ダンス・イン・ザ・メモリーズ ) [p3FsbF_Aito].mp4",
+            "size": 6.374073,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Meiko Nakahara - Dance in the memories (ダンス・イン・ザ・メモリーズ ) [p3FsbF_Aito].mp4?raw=true"
+        },
+        {
+            "id": "hXtZmqzsoyw",
+            "name": "Consider Me Dub Vocal Alt [hXtZmqzsoyw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Consider Me Dub Vocal Alt [hXtZmqzsoyw].mp4",
+            "size": 8.365689999999999,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Consider Me Dub Vocal Alt [hXtZmqzsoyw].mp4?raw=true"
         },
         {
             "id": "nlTt00hjZQE",
@@ -51,11 +198,46 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Keyboard Sonata No. 38 in F Major, Hob. XVI, 23 - I. Moderato-ZbjmNSpp8XU.mp4?raw=true"
         },
         {
+            "id": "NUgqfFCt2LE",
+            "name": "Wir eilen mit schwachen, doch emsigen Schritten (BWV 78 - J.S. Bach) Score Animation [NUgqfFCt2LE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Wir eilen mit schwachen, doch emsigen Schritten (BWV 78 - J.S. Bach) Score Animation [NUgqfFCt2LE].mp4",
+            "size": 10.803656,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Wir eilen mit schwachen, doch emsigen Schritten (BWV 78 - J.S. Bach) Score Animation [NUgqfFCt2LE].mp4?raw=true"
+        },
+        {
             "id": "anGzXpYIKX0",
             "name": "Treat Me Rough-anGzXpYIKX0.mp4",
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Treat Me Rough-anGzXpYIKX0.mp4",
             "size": 2.792883,
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Treat Me Rough-anGzXpYIKX0.mp4?raw=true"
+        },
+        {
+            "id": "ecIPWwqu0Xc",
+            "name": "Pierre Rode - Violin Concerto No.4 in A major, Op.6 (c. 1799) [ecIPWwqu0Xc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Pierre Rode - Violin Concerto No.4 in A major, Op.6 (c. 1799) [ecIPWwqu0Xc].mp4",
+            "size": 48.451857999999994,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Pierre Rode - Violin Concerto No.4 in A major, Op.6 (c. 1799) [ecIPWwqu0Xc].mp4?raw=true"
+        },
+        {
+            "id": "el  1978 HQ",
+            "name": "Sylvester - You Make Me Feel  [1978 HQ].mp4 [2DCPF3lN5X0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Sylvester - You Make Me Feel  [1978 HQ].mp4 [2DCPF3lN5X0].mp4",
+            "size": 25.935883,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Sylvester - You Make Me Feel  [1978 HQ].mp4 [2DCPF3lN5X0].mp4?raw=true"
+        },
+        {
+            "id": "j7mNDtWc93o",
+            "name": "Franc Moody - Skin on Skin (Official Audio) [j7mNDtWc93o].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Franc Moody - Skin on Skin (Official Audio) [j7mNDtWc93o].mp4",
+            "size": 29.182679999999998,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Franc Moody - Skin on Skin (Official Audio) [j7mNDtWc93o].mp4?raw=true"
+        },
+        {
+            "id": "jGMzxO9CV8M",
+            "name": "Do, Do, Do [jGMzxO9CV8M].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Do, Do, Do [jGMzxO9CV8M].mp4",
+            "size": 5.264908,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Do, Do, Do [jGMzxO9CV8M].mp4?raw=true"
         },
         {
             "id": "D9of2a4kE_k",
@@ -65,11 +247,81 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/風にゆれる光-D9of2a4kE_k.mp4?raw=true"
         },
         {
+            "id": "GtfZbj4J71A",
+            "name": "Indeep - Last Night A DJ Saved My Life (Official Music Video) [GtfZbj4J71A].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Indeep - Last Night A DJ Saved My Life (Official Music Video) [GtfZbj4J71A].mp4",
+            "size": 15.118791,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Indeep - Last Night A DJ Saved My Life (Official Music Video) [GtfZbj4J71A].mp4?raw=true"
+        },
+        {
+            "id": "S8EykQaZ8CU",
+            "name": "Marianne Faithfull - As Tears Go By (1964) (Stereo ⧸ Lyrics) [S8EykQaZ8CU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Marianne Faithfull - As Tears Go By (1964) (Stereo ⧸ Lyrics) [S8EykQaZ8CU].mp4",
+            "size": 13.489625,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Marianne Faithfull - As Tears Go By (1964) (Stereo ⧸ Lyrics) [S8EykQaZ8CU].mp4?raw=true"
+        },
+        {
+            "id": "bYS2EUbD1PU",
+            "name": "Emile Waldteufel - Très Jolie (Op. 159, Waltz) [bYS2EUbD1PU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Emile Waldteufel - Très Jolie (Op. 159, Waltz) [bYS2EUbD1PU].mp4",
+            "size": 9.238999,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Emile Waldteufel - Très Jolie (Op. 159, Waltz) [bYS2EUbD1PU].mp4?raw=true"
+        },
+        {
+            "id": "WjHwzTi-J2Y",
+            "name": "Woman [WjHwzTi-J2Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Woman [WjHwzTi-J2Y].mp4",
+            "size": 8.940358,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Woman [WjHwzTi-J2Y].mp4?raw=true"
+        },
+        {
+            "id": "sTRUo3Z-F00",
+            "name": "Dora [sTRUo3Z-F00].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Dora [sTRUo3Z-F00].mp4",
+            "size": 10.935298,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Dora [sTRUo3Z-F00].mp4?raw=true"
+        },
+        {
+            "id": "zZ6dWoQut_0",
+            "name": "Shostakovich： Jazz Suite No. 1 - I. Waltz [zZ6dWoQut_0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Shostakovich： Jazz Suite No. 1 - I. Waltz [zZ6dWoQut_0].mp4",
+            "size": 5.594783,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Shostakovich： Jazz Suite No. 1 - I. Waltz [zZ6dWoQut_0].mp4?raw=true"
+        },
+        {
+            "id": "LLFC7xAjMgw",
+            "name": "The Babbitt and the Bromide [LLFC7xAjMgw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/The Babbitt and the Bromide [LLFC7xAjMgw].mp4",
+            "size": 10.492436,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/The Babbitt and the Bromide [LLFC7xAjMgw].mp4?raw=true"
+        },
+        {
+            "id": "Byvkvj06dD4",
+            "name": "Liszt： ＂Oh, quand je dors＂ S 282 [Byvkvj06dD4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Liszt： ＂Oh, quand je dors＂ S 282 [Byvkvj06dD4].mp4",
+            "size": 11.316124,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Liszt： ＂Oh, quand je dors＂ S 282 [Byvkvj06dD4].mp4?raw=true"
+        },
+        {
             "id": "dg-R7ND3Rng",
             "name": "Johnnie Ray - Scotch And Soda (1962)-dg-R7ND3Rng.mp4",
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Johnnie Ray - Scotch And Soda (1962)-dg-R7ND3Rng.mp4",
             "size": 4.279383999999999,
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Johnnie Ray - Scotch And Soda (1962)-dg-R7ND3Rng.mp4?raw=true"
+        },
+        {
+            "id": "OUSiB2RMlMY",
+            "name": "Isn't It A Pity [OUSiB2RMlMY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Isn't It A Pity [OUSiB2RMlMY].mp4",
+            "size": 12.00244,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Isn't It A Pity [OUSiB2RMlMY].mp4?raw=true"
+        },
+        {
+            "id": "ecM7_3rs5gU",
+            "name": "Edward Elgar - Salut d'Amour Op.12 [ecM7_3rs5gU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Edward Elgar - Salut d'Amour Op.12 [ecM7_3rs5gU].mp4",
+            "size": 3.80633,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Edward Elgar - Salut d'Amour Op.12 [ecM7_3rs5gU].mp4?raw=true"
         },
         {
             "id": "0MgAH98jEKE",
@@ -79,11 +331,74 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/I Want To Be Happy-0MgAH98jEKE.mp4?raw=true"
         },
         {
+            "id": "527Bb9IGZUE",
+            "name": "Tchaikovsky - Concert Fantasia, Op. 56 (1884) [527Bb9IGZUE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Tchaikovsky - Concert Fantasia, Op. 56 (1884) [527Bb9IGZUE].mp4",
+            "size": 62.753856999999996,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Tchaikovsky - Concert Fantasia, Op. 56 (1884) [527Bb9IGZUE].mp4?raw=true"
+        },
+        {
+            "id": "zwhgJddXi9Y",
+            "name": "Donna Summer -  This Time I Know It's For Real (Official Music Video) [zwhgJddXi9Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Donna Summer -  This Time I Know It's For Real (Official Music Video) [zwhgJddXi9Y].mp4",
+            "size": 12.885014,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Donna Summer -  This Time I Know It's For Real (Official Music Video) [zwhgJddXi9Y].mp4?raw=true"
+        },
+        {
+            "id": "1vMu9fFXBPA",
+            "name": "Let True Love Begin [1vMu9fFXBPA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Let True Love Begin [1vMu9fFXBPA].mp4",
+            "size": 12.893628,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Let True Love Begin [1vMu9fFXBPA].mp4?raw=true"
+        },
+        {
+            "id": "chrL2t1MEIk",
+            "name": "Paganini： Sonata Concertata In A Major For Guitar & Violin, Op.61, M.S. 2 - Adagio, assai... [chrL2t1MEIk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Paganini： Sonata Concertata In A Major For Guitar & Violin, Op.61, M.S. 2 - Adagio, assai... [chrL2t1MEIk].mp4",
+            "size": 5.287538,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Paganini： Sonata Concertata In A Major For Guitar & Violin, Op.61, M.S. 2 - Adagio, assai... [chrL2t1MEIk].mp4?raw=true"
+        },
+        {
+            "id": "KLLIfC8YmXg",
+            "name": "Igor Stravinsky - Concerto in D [KLLIfC8YmXg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Igor Stravinsky - Concerto in D [KLLIfC8YmXg].mp4",
+            "size": 18.593203,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Igor Stravinsky - Concerto in D [KLLIfC8YmXg].mp4?raw=true"
+        },
+        {
+            "id": "LsB6-TGNcDQ",
+            "name": "WE'RE ALL ALONE [LsB6-TGNcDQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/WE'RE ALL ALONE [LsB6-TGNcDQ].mp4",
+            "size": 9.817988999999999,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/WE'RE ALL ALONE [LsB6-TGNcDQ].mp4?raw=true"
+        },
+        {
+            "id": "UABSnmnPI-g",
+            "name": "Things Are Looking Up [UABSnmnPI-g].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Things Are Looking Up [UABSnmnPI-g].mp4",
+            "size": 10.748137999999999,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Things Are Looking Up [UABSnmnPI-g].mp4?raw=true"
+        },
+        {
+            "id": "Nco_kh8xJDs",
+            "name": "Alice In Chains - Would？ (Official HD Video) [Nco_kh8xJDs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Alice In Chains - Would？ (Official HD Video) [Nco_kh8xJDs].mp4",
+            "size": 19.918908,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Alice In Chains - Would？ (Official HD Video) [Nco_kh8xJDs].mp4?raw=true"
+        },
+        {
             "id": "femdOiCiXeU",
             "name": "Liszt - Mignons Lied, S. 275 (ca. 1856) - Kennst du das Land-femdOiCiXeU.mp4",
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Liszt - Mignons Lied, S. 275 (ca. 1856) - Kennst du das Land-femdOiCiXeU.mp4",
             "size": 3.8465019999999996,
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Liszt - Mignons Lied, S. 275 (ca. 1856) - Kennst du das Land-femdOiCiXeU.mp4?raw=true"
+        },
+        {
+            "id": "RSilkgtOQMo",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act III - No. 19, Sextet. Riconosci in questo amplesso [RSilkgtOQMo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Mozart： Le nozze di Figaro, K. 492, Act III - No. 19, Sextet. Riconosci in questo amplesso [RSilkgtOQMo].mp4",
+            "size": 14.564442999999999,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act III - No. 19, Sextet. Riconosci in questo amplesso [RSilkgtOQMo].mp4?raw=true"
         },
         {
             "id": "lK2tyv1PqoA",
@@ -93,11 +408,32 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Espera-lK2tyv1PqoA.mp4?raw=true"
         },
         {
+            "id": "-Fs3UcO_JhU",
+            "name": "Silver Pozzoli - Around My Dream (Extended Version) [-Fs3UcO_JhU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Silver Pozzoli - Around My Dream (Extended Version) [-Fs3UcO_JhU].mp4",
+            "size": 8.205124,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Silver Pozzoli - Around My Dream (Extended Version) [-Fs3UcO_JhU].mp4?raw=true"
+        },
+        {
+            "id": "3JY8hEolIls",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Or bene, ascolta, e taci [3JY8hEolIls].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Or bene, ascolta, e taci [3JY8hEolIls].mp4",
+            "size": 4.320450999999999,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Or bene, ascolta, e taci [3JY8hEolIls].mp4?raw=true"
+        },
+        {
             "id": "ukLGrA2ryYY",
             "name": "Blancmange – Don’t Tell Me (Official Video)-ukLGrA2ryYY.mp4",
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Blancmange – Don’t Tell Me (Official Video)-ukLGrA2ryYY.mp4",
             "size": 14.984397,
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Blancmange – Don’t Tell Me (Official Video)-ukLGrA2ryYY.mp4?raw=true"
+        },
+        {
+            "id": "Syw-YXuKufQ",
+            "name": "Radio Futura - Tierra para bailar (Álbum completo) [Syw-YXuKufQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Radio Futura - Tierra para bailar (Álbum completo) [Syw-YXuKufQ].mp4",
+            "size": 78.555825,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Radio Futura - Tierra para bailar (Álbum completo) [Syw-YXuKufQ].mp4?raw=true"
         },
         {
             "id": "PIrw6v68zQs",
@@ -107,5 +443,5 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Los Saicos - Ana-PIrw6v68zQs.mp4?raw=true"
         }
     ],
-    "total_size": 127.125543
+    "total_size": 926.0124920000001
 }
