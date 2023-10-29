@@ -23,6 +23,13 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act II - Recit. Oh guarda il demonietto! [MncpmEyZBkI].mp4?raw=true"
         },
         {
+            "id": "ae4_40rDjhw",
+            "name": "Stiff Upper Lip [ae4_40rDjhw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Stiff Upper Lip [ae4_40rDjhw].mp4",
+            "size": 10.002908999999999,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Stiff Upper Lip [ae4_40rDjhw].mp4?raw=true"
+        },
+        {
             "id": "JZ9zpf47p9o",
             "name": "Boogie Woogie Dancin' Shoes [JZ9zpf47p9o].mp4",
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Boogie Woogie Dancin' Shoes [JZ9zpf47p9o].mp4",
@@ -30,11 +37,25 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Boogie Woogie Dancin' Shoes [JZ9zpf47p9o].mp4?raw=true"
         },
         {
+            "id": "vD3il7dPe3c",
+            "name": "Piramo e Tisbe - Aria - Duet - Pur ti riveggo alfine! (Tisbe, Piramo) [vD3il7dPe3c].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Piramo e Tisbe - Aria - Duet - Pur ti riveggo alfine! (Tisbe, Piramo) [vD3il7dPe3c].mp4",
+            "size": 3.1088929999999997,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Piramo e Tisbe - Aria - Duet - Pur ti riveggo alfine! (Tisbe, Piramo) [vD3il7dPe3c].mp4?raw=true"
+        },
+        {
             "id": "5elMmh0Tr_o",
             "name": "Crystal Memories-5elMmh0Tr_o.mp4",
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Crystal Memories-5elMmh0Tr_o.mp4",
             "size": 4.739040999999999,
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Crystal Memories-5elMmh0Tr_o.mp4?raw=true"
+        },
+        {
+            "id": "9NpRttZ2XNc",
+            "name": "Friedrich Kuhlau - Elverhøj, Op.100 - Ouverture [9NpRttZ2XNc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Friedrich Kuhlau - Elverhøj, Op.100 - Ouverture [9NpRttZ2XNc].mp4",
+            "size": 24.121121,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Friedrich Kuhlau - Elverhøj, Op.100 - Ouverture [9NpRttZ2XNc].mp4?raw=true"
         },
         {
             "id": "WsyhzAjq0FY",
@@ -49,6 +70,13 @@
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Africana [DS6hw8k0oFM].mp4",
             "size": 9.088989,
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Africana [DS6hw8k0oFM].mp4?raw=true"
+        },
+        {
+            "id": "SPn0g-Fe598",
+            "name": "Ignacy Feliks Dobrzyński - Piano Concerto in A-flat major, Op.2 (1824) [SPn0g-Fe598].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Ignacy Feliks Dobrzyński - Piano Concerto in A-flat major, Op.2 (1824) [SPn0g-Fe598].mp4",
+            "size": 54.368927,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Ignacy Feliks Dobrzyński - Piano Concerto in A-flat major, Op.2 (1824) [SPn0g-Fe598].mp4?raw=true"
         },
         {
             "id": "c639hksrUzU",
@@ -86,6 +114,13 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Wild Mow-Mow-zZFmXf2j12A.mp4?raw=true"
         },
         {
+            "id": "yLwb5_rChXQ",
+            "name": "Paganini： Violin Concerto No. 5 in A Minor, MS. 78 - III. Finale - Rondo. Andantino quasi... [yLwb5_rChXQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Paganini： Violin Concerto No. 5 in A Minor, MS. 78 - III. Finale - Rondo. Andantino quasi... [yLwb5_rChXQ].mp4",
+            "size": 15.645017,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Paganini： Violin Concerto No. 5 in A Minor, MS. 78 - III. Finale - Rondo. Andantino quasi... [yLwb5_rChXQ].mp4?raw=true"
+        },
+        {
             "id": "MC1TkipqZrM",
             "name": "Louis Andriessen - De Staat (1976)-MC1TkipqZrM.mp4",
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Louis Andriessen - De Staat (1976)-MC1TkipqZrM.mp4",
@@ -105,6 +140,13 @@
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Meiko Nakahara - Dance in the memories (ダンス・イン・ザ・メモリーズ ) [p3FsbF_Aito].mp4",
             "size": 6.374073,
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Meiko Nakahara - Dance in the memories (ダンス・イン・ザ・メモリーズ ) [p3FsbF_Aito].mp4?raw=true"
+        },
+        {
+            "id": "Lq8qIdlTMh8",
+            "name": "Wenzel Wilhelm Würfel (1790-1832) - Grand Rondeau Brillant pour le Piano Forte (c.1826) [Lq8qIdlTMh8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Wenzel Wilhelm Würfel (1790-1832) - Grand Rondeau Brillant pour le Piano Forte (c.1826) [Lq8qIdlTMh8].mp4",
+            "size": 49.090768999999995,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Wenzel Wilhelm Würfel (1790-1832) - Grand Rondeau Brillant pour le Piano Forte (c.1826) [Lq8qIdlTMh8].mp4?raw=true"
         },
         {
             "id": "nlTt00hjZQE",
@@ -135,6 +177,27 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Treat Me Rough-anGzXpYIKX0.mp4?raw=true"
         },
         {
+            "id": "Sf9eZdeS8es",
+            "name": "LUDWIG VAN BEETHOVEN - GROSSE SONATE FÜR DAS HAMMERKLAVIER OPUS 106 - FRIEDRICH GULDA [Sf9eZdeS8es].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/LUDWIG VAN BEETHOVEN - GROSSE SONATE FÜR DAS HAMMERKLAVIER OPUS 106 - FRIEDRICH GULDA [Sf9eZdeS8es].mp4",
+            "size": 43.467602,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/LUDWIG VAN BEETHOVEN - GROSSE SONATE FÜR DAS HAMMERKLAVIER OPUS 106 - FRIEDRICH GULDA [Sf9eZdeS8es].mp4?raw=true"
+        },
+        {
+            "id": "jQkhNmc3Cz4",
+            "name": "Mily Balakirev - Islamey, Oriental Fantasy, Op.18 (1869) [jQkhNmc3Cz4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Mily Balakirev - Islamey, Oriental Fantasy, Op.18 (1869) [jQkhNmc3Cz4].mp4",
+            "size": 13.643027,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Mily Balakirev - Islamey, Oriental Fantasy, Op.18 (1869) [jQkhNmc3Cz4].mp4?raw=true"
+        },
+        {
+            "id": "jknh8NDQ3q8",
+            "name": "Can You Keep a Secret [jknh8NDQ3q8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Can You Keep a Secret [jknh8NDQ3q8].mp4",
+            "size": 8.895029,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Can You Keep a Secret [jknh8NDQ3q8].mp4?raw=true"
+        },
+        {
             "id": "D9of2a4kE_k",
             "name": "風にゆれる光-D9of2a4kE_k.mp4",
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/風にゆれる光-D9of2a4kE_k.mp4",
@@ -154,6 +217,13 @@
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Emile Waldteufel - Très Jolie (Op. 159, Waltz) [bYS2EUbD1PU].mp4",
             "size": 9.238999,
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Emile Waldteufel - Très Jolie (Op. 159, Waltz) [bYS2EUbD1PU].mp4?raw=true"
+        },
+        {
+            "id": "ar7u5IzdR0g",
+            "name": "Dennis Parker _ Like An Eagle _ Expanded CD [ar7u5IzdR0g].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Dennis Parker _ Like An Eagle _ Expanded CD [ar7u5IzdR0g].mp4",
+            "size": 85.130944,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Dennis Parker _ Like An Eagle _ Expanded CD [ar7u5IzdR0g].mp4?raw=true"
         },
         {
             "id": "WjHwzTi-J2Y",
@@ -177,11 +247,39 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Blancmange – Don’t Tell Me (Official Video) [ukLGrA2ryYY].mp4?raw=true"
         },
         {
+            "id": "eVf1oss464U",
+            "name": "But Not For Me (45 RPM Take) [eVf1oss464U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/But Not For Me (45 RPM Take) [eVf1oss464U].mp4",
+            "size": 7.29514,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/But Not For Me (45 RPM Take) [eVf1oss464U].mp4?raw=true"
+        },
+        {
             "id": "dg-R7ND3Rng",
             "name": "Johnnie Ray - Scotch And Soda (1962)-dg-R7ND3Rng.mp4",
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Johnnie Ray - Scotch And Soda (1962)-dg-R7ND3Rng.mp4",
             "size": 4.279383999999999,
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Johnnie Ray - Scotch And Soda (1962)-dg-R7ND3Rng.mp4?raw=true"
+        },
+        {
+            "id": "y6S1LsZ00vY",
+            "name": "Crisantemo (Remastered) [y6S1LsZ00vY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Crisantemo (Remastered) [y6S1LsZ00vY].mp4",
+            "size": 8.898377,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Crisantemo (Remastered) [y6S1LsZ00vY].mp4?raw=true"
+        },
+        {
+            "id": "i9CecK6GOnY",
+            "name": "La Plus Belle Africane [i9CecK6GOnY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/La Plus Belle Africane [i9CecK6GOnY].mp4",
+            "size": 18.530623,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/La Plus Belle Africane [i9CecK6GOnY].mp4?raw=true"
+        },
+        {
+            "id": "ee8DKruGFcU",
+            "name": "Hussak Samai [ee8DKruGFcU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Hussak Samai [ee8DKruGFcU].mp4",
+            "size": 7.256506,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Hussak Samai [ee8DKruGFcU].mp4?raw=true"
         },
         {
             "id": "OUSiB2RMlMY",
@@ -212,6 +310,20 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Tchaikovsky - Concert Fantasia, Op. 56 (1884) [527Bb9IGZUE].mp4?raw=true"
         },
         {
+            "id": "t4CK7ZzEbRY",
+            "name": "By Strauss [t4CK7ZzEbRY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/By Strauss [t4CK7ZzEbRY].mp4",
+            "size": 8.734058,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/By Strauss [t4CK7ZzEbRY].mp4?raw=true"
+        },
+        {
+            "id": "bJcO--JqBwQ",
+            "name": "Fantasía Coral, en do menor, Op. 80. Ludwig van Beethoven (Germ.⧸ Engl.⧸ Span. subtitles) [bJcO--JqBwQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Fantasía Coral, en do menor, Op. 80. Ludwig van Beethoven (Germ.⧸ Engl.⧸ Span. subtitles) [bJcO--JqBwQ].mp4",
+            "size": 12.595588999999999,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Fantasía Coral, en do menor, Op. 80. Ludwig van Beethoven (Germ.⧸ Engl.⧸ Span. subtitles) [bJcO--JqBwQ].mp4?raw=true"
+        },
+        {
             "id": "chrL2t1MEIk",
             "name": "Paganini： Sonata Concertata In A Major For Guitar & Violin, Op.61, M.S. 2 - Adagio, assai... [chrL2t1MEIk].mp4",
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Paganini： Sonata Concertata In A Major For Guitar & Violin, Op.61, M.S. 2 - Adagio, assai... [chrL2t1MEIk].mp4",
@@ -224,6 +336,13 @@
             "path": "/home/alanmatzumiya/Videos/container/s3/videos/Igor Stravinsky - Concerto in D [KLLIfC8YmXg].mp4",
             "size": 18.593203,
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Igor Stravinsky - Concerto in D [KLLIfC8YmXg].mp4?raw=true"
+        },
+        {
+            "id": "ciDDxMfl9rU",
+            "name": "Paganini： Maestosa Sonata sentimentale, MS. 51 [ciDDxMfl9rU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s3/videos/Paganini： Maestosa Sonata sentimentale, MS. 51 [ciDDxMfl9rU].mp4",
+            "size": 22.035498999999998,
+            "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Paganini： Maestosa Sonata sentimentale, MS. 51 [ciDDxMfl9rU].mp4?raw=true"
         },
         {
             "id": "femdOiCiXeU",
@@ -275,5 +394,5 @@
             "url": "https://github.com/circuitalmynds/music_s3/blob/main/videos/Radio Futura - Tierra para bailar (Álbum completo) [Syw-YXuKufQ].mp4?raw=true"
         }
     ],
-    "total_size": 536.7855699999999
+    "total_size": 929.6055999999998
 }
